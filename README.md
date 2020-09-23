@@ -1,2 +1,2 @@
 # Resources
-Resources of Interest
+Playing around with a github tutorial. Just for fun. 
