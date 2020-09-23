@@ -1,4 +1,2 @@
 # Resources
-Resources of Interest
-::::::::
-https://github.com/trustedsec/ptf
+Playing around with a github tutorial. Just for fun. 
